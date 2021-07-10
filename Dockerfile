@@ -1,4 +1,4 @@
-FROM ruby:2.7.2-alpine
+FROM ruby:3.0.2-alpine
 LABEL maintainer="dani@danirod.es"
 
 # Build variables
