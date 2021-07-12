@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'rake', '~> 13.0.3'
+gem 'rake', '~> 13.0.6'
 
 # Base Ruby on Rails distribution
 gem 'bootsnap', '~> 1.7.5'
